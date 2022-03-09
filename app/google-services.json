@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194012829921",
+    "project_id": "fir-contact-3226e",
+    "storage_bucket": "fir-contact-3226e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194012829921:android:44a27b240c14dd53c0ffa0",
+        "android_client_info": {
+          "package_name": "com.example.firebasecontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194012829921-34pk0vtqj6drdojndosforl0j7mrv3c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmtiEYT4xXDRKAmPo0zfafAPInjyZBlHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194012829921-34pk0vtqj6drdojndosforl0j7mrv3c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
